@@ -1,0 +1,8 @@
+.box{
+    margin:auto;
+    height: 100px;
+    width : 600px;
+    border: 2px dotted black;
+    text-align: center;
+    line-height: 5;
+}
